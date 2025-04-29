@@ -1,6 +1,6 @@
 # Ex.06 Book Front Cover Page Design
 ## Date:26/04/2025
-
+## Register No.: 212224230110
 ## AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -129,7 +129,7 @@ book.html
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-26 143730](https://github.com/user-attachments/assets/a2a98397-9ae4-4359-8dd4-038c14719f83)
+![image](https://github.com/user-attachments/assets/4664f1e8-d8cb-484b-a925-075c7f0a0ff1)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
