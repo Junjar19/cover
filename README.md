@@ -112,12 +112,12 @@ book.html
 <body>
 
 <div class="overlay">
-  <div class="tagline">Your Tagline Goes Here</div>
+  <div class="tagline">Knowledge is Wisdom</div>
   <div class="book-title">
-    Book Title<br>Line Two
+    ETERNAL FLAME<br>
   </div>
-  <div class="series-info">Series Name • Book Number</div>
-  <div class="author-name">Author Name</div>
+  <div class="series-info">The Forgotten Tomes • Book One</div>
+  <div class="author-name"> Sir Francis Bacon</div>
   
   <!-- Embedded Author Photo -->
   <img src="author.png" alt="Author Photo" class="author-photo">
